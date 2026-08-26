@@ -1,4 +1,4 @@
-![SLVZ](./header.jpg)
+![SLVZ](./hero.jpg)
 
 # SLVZ.LocalMediaServer
 

@@ -1,3 +1,5 @@
+![SLVZ](./header.jpg)
+
 # SLVZ.LocalMediaServer
 
 A minimal, dependency-free local HTTP server for .NET MAUI apps that lets a `WebView`
@@ -167,3 +169,6 @@ handed to the platform-specific file reader.
 - `ContentTypeHelper.GetContentType(fileName)` (referenced internally) should map file
   extensions to MIME types — bring your own implementation or the package's bundled one.
 - The server is a static class; only one instance runs per app process.
+
+
+👨‍💻 **Author:** [SLVZ](https://slvz.dev)

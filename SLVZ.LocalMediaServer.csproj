@@ -29,9 +29,9 @@
 		<AssemblyName>SLVZ.LocalMediaServer</AssemblyName>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
-		<Version>1.0.0</Version>
-		<AssemblyVersion>1.0.0</AssemblyVersion>
-		<FileVersion>1.0.0</FileVersion>
+		<Version>1.0.1</Version>
+		<AssemblyVersion>1.0.1</AssemblyVersion>
+		<FileVersion>1.0.1</FileVersion>
 		<PackageTags>C#, Local Media Server</PackageTags>
 		<Description>A minimal, dependency-free local HTTP server for .NET MAUI apps that lets a WebView stream files it normally couldn't load directly — Android content:// Uris and absolute paths, and Windows file paths — over http://127.0.0.1, with HTTP Range support for video/audio seeking.</Description>
 
